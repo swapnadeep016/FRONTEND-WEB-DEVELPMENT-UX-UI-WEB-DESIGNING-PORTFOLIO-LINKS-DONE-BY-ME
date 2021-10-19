@@ -43,3 +43,16 @@ The weblinks of all projects are given below:
 # MY-LOGO-DESIGN-PORTFOLIO-USING-ADOBE-ILLUSTRATOR
 
 1) https://github.com/swapnadeep016/ADOBE-ILLUSTRATOR/blob/main/IMG-20210120-WA0001.jpg
+
+
+# MY-DESIGN-PORTFOLIO-USING-PHOTOSHOP
+
+1) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-1/blob/main/Apps.pdf
+
+2) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-2/blob/main/Company-Portfolio.pdf
+
+3) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-3/blob/main/Ebrochure.pdf
+
+4) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-4/blob/main/Ecommerce.pdf
+
+5) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-5/blob/main/Megabyte%20Solutions.pdf
