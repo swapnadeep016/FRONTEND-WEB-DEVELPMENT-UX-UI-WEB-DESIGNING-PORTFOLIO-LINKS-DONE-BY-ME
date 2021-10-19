@@ -58,7 +58,7 @@ The weblinks of all projects are given below:
 5) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-5/blob/main/Megabyte%20Solutions.pdf
 
 
-# MY-DESIGN-PORTFOLIO-USING-REACTJS
+# MY-DEVELOPMENT-PORTFOLIO-USING-REACTJS
 
 1) https://github.com/swapnadeep016/REACT_JS_PROJECT_1
 
