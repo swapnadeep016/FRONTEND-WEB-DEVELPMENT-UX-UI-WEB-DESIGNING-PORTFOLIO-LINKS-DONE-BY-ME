@@ -27,3 +27,14 @@ The weblinks of all projects are given below:
 9)https://mayademishkevich.com/
 
 10)https://www.livethrive.org/
+
+
+# MY-DESIGN-WORK-PORTFOLIO-USING-BALSAMIQ-TOOL
+
+1) https://github.com/swapnadeep016/BALSAMIQ-UI-UX-2/blob/main/Balsamiq%201.png
+
+2) https://github.com/swapnadeep016/BALSAMIQ-UI-UX-2/blob/main/Balsamiq%202.png
+
+3) https://github.com/swapnadeep016/BALSAMIQ-UI-UX-3/blob/main/Balsamiq%201.png
+
+4) https://github.com/swapnadeep016/BALSAMIQ-UI-UX-3/blob/main/Balsamiq%202.png
