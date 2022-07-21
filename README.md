@@ -44,6 +44,8 @@ The weblinks of all projects are given below:
 
 # MY-LOGO-DESIGN-PORTFOLIO-USING-ADOBE-ILLUSTRATOR
 
+• Designed a logo using Adobe Illustrator.
+
 1) https://github.com/swapnadeep016/ADOBE-ILLUSTRATOR/blob/main/IMG-20210120-WA0001.jpg
 
 
