@@ -2,7 +2,7 @@
 
 • Designed a wireframe for the website using Photoshop.
 • Planned the workflow for the portfolio to achieve the design.
-• Programmed front end using HTML5, CSS3, bootstrap, JavaScript, and Jquery.
+• Programmed front end using HTML5, CSS3, bootstrap, JavaScript, Jquery and Wordpress Web Designing..
 • Developed a responsive portfolio website compatible with desktop, mobile and other screen sizes. 
 • Tested the portfolio website on multiple browsers like Chrome, Firefox, Edge, and Safari
 
