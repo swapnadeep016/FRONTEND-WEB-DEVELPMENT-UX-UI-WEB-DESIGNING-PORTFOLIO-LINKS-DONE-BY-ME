@@ -31,6 +31,8 @@ The weblinks of all projects are given below:
 
 # MY-DESIGN-WORK-PORTFOLIO-USING-BALSAMIQ-TOOL
 
+• Designed User Interface and User Experienced app using Balsamiq tool.
+
 1) https://github.com/swapnadeep016/BALSAMIQ-UI-UX-2/blob/main/Balsamiq%201.png
 
 2) https://github.com/swapnadeep016/BALSAMIQ-UI-UX-2/blob/main/Balsamiq%202.png
@@ -47,6 +49,8 @@ The weblinks of all projects are given below:
 
 # MY-DESIGN-PORTFOLIO-USING-PHOTOSHOP
 
+• Designed the layouts of various webpages using Photoshop.
+
 1) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-1/blob/main/Apps.pdf
 
 2) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-2/blob/main/Company-Portfolio.pdf
@@ -59,6 +63,10 @@ The weblinks of all projects are given below:
 
 
 # MY-DEVELOPMENT-PORTFOLIO-USING-REACTJS
+
+• Used react Javascript to develop frontend apps.
+• The projects will be downloaded from the link.
+• To run the projects please open terminal, type npm start and run the application.
 
 1) https://github.com/swapnadeep016/REACT_JS_PROJECT_1
 
