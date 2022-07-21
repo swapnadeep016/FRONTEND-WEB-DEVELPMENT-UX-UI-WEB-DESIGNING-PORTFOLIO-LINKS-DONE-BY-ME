@@ -1,14 +1,5 @@
 # FRONTEND-DEVELPMENT-UX-UI-WEB-DESIGNING-PORTFOLIO-LINKS-DONE-BY-ME
 
-• Designed UI for many platforms using Adobe XD, Photoshop, Illustrator, Balsamiq wireframe, and Sketch.
-• Planned the workflow for the portfolio to achieve the design.
-• Developed Web apps with HTML5, CSS3, JavaScript, JQuery, Responsive Design for web and mobile, Bootstrap, Foundation, React JavaScript, and backend with WordPress. Front End, UI/UX enhancements, Custom Plugins, and API integration are the primary focuses.
-• Developed a responsive portfolio website compatible with desktop, mobile and other screen sizes. 
-• Tested the portfolio website on multiple browsers like Chrome, Firefox, Edge, and Safari
-• Develop and customize to fit corporate needs.   
-• Designed completely responsive websites/eCommerce websites that adhere to the client's specifications on schedule. 
-• Acquired knowledge about corporate design thinking.
-
 The weblinks of all projects are given below:
 
 1)https://www.danners.com/
@@ -30,6 +21,15 @@ The weblinks of all projects are given below:
 9)https://mayademishkevich.com/
 
 10)https://www.livethrive.org/
+
+• Designed UI for many platforms using Adobe XD, Photoshop, Illustrator, Balsamiq wireframe, and Sketch.
+• Planned the workflow for the portfolio to achieve the design.
+• Developed Web apps with HTML5, CSS3, JavaScript, JQuery, Responsive Design for web and mobile, Bootstrap, Foundation, React JavaScript, and backend with WordPress. Front End, UI/UX enhancements, Custom Plugins, and API integration are the primary focuses.
+• Developed a responsive portfolio website compatible with desktop, mobile and other screen sizes. 
+• Tested the portfolio website on multiple browsers like Chrome, Firefox, Edge, and Safari
+• Develop and customize to fit corporate needs.   
+• Designed completely responsive websites/eCommerce websites that adhere to the client's specifications on schedule. 
+• Acquired knowledge about corporate design thinking.
 
 
 # FRONTEND-DEVELPMENT-UX-UI-WEB-DESIGNING-PORTFOLIO-LINKS-DONE-BY-ME
