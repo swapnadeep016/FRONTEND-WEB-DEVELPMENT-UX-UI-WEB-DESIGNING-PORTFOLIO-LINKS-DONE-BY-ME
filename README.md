@@ -1,10 +1,13 @@
 # FRONTEND-DEVELPMENT-UX-UI-WEB-DESIGNING-PORTFOLIO-LINKS-DONE-BY-ME
 
-• Designed a wireframe for the website using Photoshop.
+• Designed UI for many platforms using Adobe XD, Photoshop, Illustrator, Balsamiq wireframe, and Sketch.
 • Planned the workflow for the portfolio to achieve the design.
-• Programmed front end using HTML5, CSS3, bootstrap, JavaScript, Jquery and Wordpress Web Designing..
+• Developed Web apps with HTML5, CSS3, JavaScript, JQuery, Responsive Design for web and mobile, Bootstrap, Foundation, React JavaScript, and backend with WordPress. Front End, UI/UX enhancements, Custom Plugins, and API integration are the primary focuses.
 • Developed a responsive portfolio website compatible with desktop, mobile and other screen sizes. 
 • Tested the portfolio website on multiple browsers like Chrome, Firefox, Edge, and Safari
+• Develop and customize to fit corporate needs.   
+• Designed completely responsive websites/eCommerce websites that adhere to the client's specifications on schedule. 
+• Acquired knowledge about corporate design thinking.
 
 The weblinks of all projects are given below:
 
@@ -27,6 +30,15 @@ The weblinks of all projects are given below:
 9)https://mayademishkevich.com/
 
 10)https://www.livethrive.org/
+
+
+# FRONTEND-DEVELPMENT-UX-UI-WEB-DESIGNING-PORTFOLIO-LINKS-DONE-BY-ME
+
+1) https://unipupil.com/
+
+• Utilized technical skills in designing UI for different platforms such as Mobile, website, and web applications using Adobe XD, Photoshop, Balsamiq, Illustrator, Sketch, and prototyping tools. 
+• Developed Web Applications using front-end technologies like HTML5, CSS3, JavaScript, jQuery, Media Query Responsive Design for web and mobile, Bootstrap, Foundation, React JavaScript, and backend using WordPress. 
+• Developed and configured applications to meet business and application requirements.
 
 
 # MY-DESIGN-WORK-PORTFOLIO-USING-BALSAMIQ-TOOL
@@ -66,9 +78,10 @@ The weblinks of all projects are given below:
 
 # MY-DEVELOPMENT-PORTFOLIO-USING-REACTJS
 
+• Developed Front End components utilizing the JavaScript frameworks React.js and JSX, in collaboration with experienced React engineers. 
 • Used react Javascript to develop frontend apps.
 • The projects will be downloaded from the link.
-• To run the projects please open terminal, type npm start and run the application.
+• To run the projects please open visual studio code, open terminal, type npm start and run the application.
 
 1) https://github.com/swapnadeep016/REACT_JS_PROJECT_1
 
