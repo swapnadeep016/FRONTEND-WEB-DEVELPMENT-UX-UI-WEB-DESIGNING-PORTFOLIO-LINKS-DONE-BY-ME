@@ -53,28 +53,36 @@ The weblinks of all projects are given below:
 
 4) https://github.com/swapnadeep016/BALSAMIQ-UI-UX-3/blob/main/Balsamiq%202.png
 
+• Designed Villa Kita Semua Admin Login page using Balsamiq tool for an Ecommerce sector.
+• The account has two features which are Manage Accounts and Create Account.
+• Designed a responsive based applications to meet business requirements.
 
 # MY-LOGO-DESIGN-PORTFOLIO-USING-ADOBE-ILLUSTRATOR
 
-• Designed a logo using Adobe Illustrator.
-
 1) https://github.com/swapnadeep016/ADOBE-ILLUSTRATOR/blob/main/IMG-20210120-WA0001.jpg
 
+• Designed a Logo using Adobe Illustrator for a business application.
 
 # MY-DESIGN-PORTFOLIO-USING-PHOTOSHOP
 
 • Designed the layouts of various webpages using Photoshop.
 
 1) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-1/blob/main/Apps.pdf
+2) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-4/blob/main/Ecommerce.pdf
 
-2) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-2/blob/main/Company-Portfolio.pdf
+• Designed online web platform for buying and selling liquor items and collections.
+• Designed customised Logos of different countries for a busines application.
+• Designed a customisez Login page where the users can purchase the liquor items online.
 
-3) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-3/blob/main/Ebrochure.pdf
+3) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-2/blob/main/Company-Portfolio.pdf
 
-4) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-4/blob/main/Ecommerce.pdf
+• Designed a technology industry website using photoshop. This company offers Software and Product development.
+• Designed a various web screens for companies Technologies offerings, Industries we serve, Web portfolio, Our clients and Contact Us.
 
-5) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-5/blob/main/Megabyte%20Solutions.pdf
+4) https://github.com/swapnadeep016/PHOTOSHOP-DESIGNING-5/blob/main/Megabyte%20Solutions.pdf
 
+• Designed online web platform for buying and selling electronic items and collections.
+• Designed a various navigation screens for About us, Shipping & delivery, Create & manage account.
 
 # MY-DEVELOPMENT-PORTFOLIO-USING-REACTJS
 
