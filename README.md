@@ -112,3 +112,5 @@ The weblinks of all projects are given below:
 • Used ASP.NET Core MVC, I produced an MVC application that permits CRUD operations.
 
 • Designed the front-end utilizing ES6 classes and jsx, as well as HTML, CSS, JavaScript, and React.js components. 
+
+1) https://github.com/swapnadeep016/CRUD-APPLICATION/blob/main/1.png
