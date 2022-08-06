@@ -102,3 +102,13 @@ The weblinks of all projects are given below:
 5) https://github.com/swapnadeep016/REACT_JS_PROJECT_5
 
 6) https://github.com/swapnadeep016/REACT_JS_PROJECT_6
+
+# DEVELOPMENT-CRUDAPPLICATION-USING-REACTJS
+
+• Wireframed the project's general layout.
+
+• Worked together with the team and the mentor to develop talent for the project and offer innovation and insight.
+
+• Used ASP.NET Core MVC, I produced an MVC application that permits CRUD operations.
+
+• Designed the front-end utilizing ES6 classes and jsx, as well as HTML, CSS, JavaScript, and React.js components. 
