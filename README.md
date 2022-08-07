@@ -22,6 +22,7 @@ The weblinks of all projects are given below:
 
 10)https://www.livethrive.org/
 
+• These are portfolios of striking digital works from graphic design to live websites.
 • Designed UI for many platforms using Adobe XD, Photoshop, Illustrator, Balsamiq wireframe, and Sketch.
 • Planned the workflow for the portfolio to achieve the design.
 • Developed Web apps with HTML5, CSS3, JavaScript, JQuery, Responsive Design for web and mobile, Bootstrap, Foundation, React JavaScript, and backend with WordPress. Front End, UI/UX enhancements, Custom Plugins, and API integration are the primary focuses.
