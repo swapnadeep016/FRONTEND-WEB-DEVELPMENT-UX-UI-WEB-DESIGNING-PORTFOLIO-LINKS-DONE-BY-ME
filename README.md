@@ -10,17 +10,11 @@ The weblinks of all projects are given below:
 
 4)https://webfrootz.com/
 
-5)http://www.loviis.com/
+5)https://sydneydogtraining.com.au/
 
-6)https://sydneydogtraining.com.au/
+6)https://www.cruise.com/
 
-7)https://www.cutiesescorts.com.au/
-
-8)https://www.cruise.com/
-
-9)https://mayademishkevich.com/
-
-10)https://www.livethrive.org/
+7)https://www.livethrive.org/
 
 • These are portfolios of striking digital works from graphic design to live websites.
 • Designed UI for many platforms using Adobe XD, Photoshop, Illustrator, Balsamiq wireframe, and Sketch.
