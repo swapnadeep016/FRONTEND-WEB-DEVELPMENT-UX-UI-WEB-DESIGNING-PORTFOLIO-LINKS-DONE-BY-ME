@@ -37,7 +37,6 @@ The weblinks of all projects are given below:
 • Developed Web Applications using front-end technologies like HTML5, CSS3, JavaScript, jQuery, Media Query Responsive Design for web and mobile, Bootstrap, Foundation, React JavaScript, and backend using WordPress. 
 • Developed and configured applications to meet business and application requirements.
 
-
 # MY-DESIGN-WORK-PORTFOLIO-USING-BALSAMIQ-TOOL
 
 • Designed User Interface and User Experienced app using Balsamiq tool.
@@ -54,11 +53,13 @@ The weblinks of all projects are given below:
 • The account has two features which are Manage Accounts and Create Account.
 • Designed a responsive based applications to meet business requirements.
 
+
 # MY-LOGO-DESIGN-PORTFOLIO-USING-ADOBE-ILLUSTRATOR
 
 1) https://github.com/swapnadeep016/ADOBE-ILLUSTRATOR/blob/main/IMG-20210120-WA0001.jpg
 
 • Designed a Logo using Adobe Illustrator for a business application.
+
 
 # MY-DESIGN-PORTFOLIO-USING-PHOTOSHOP
 
@@ -81,6 +82,7 @@ The weblinks of all projects are given below:
 • Designed online web platform for buying and selling electronic items and collections.
 • Designed a various navigation screens for About us, Shipping & delivery, Create & manage account.
 
+
 # MY-DEVELOPMENT-PORTFOLIO-USING-REACTJS
 
 • Developed Front End components utilizing the JavaScript frameworks React.js and JSX, in collaboration with experienced React engineers. 
@@ -99,6 +101,7 @@ The weblinks of all projects are given below:
 5) https://github.com/swapnadeep016/REACT_JS_PROJECT_5
 
 6) https://github.com/swapnadeep016/REACT_JS_PROJECT_6
+
 
 # DEVELOPMENT-CRUDAPPLICATION-USING-REACTJS
 
