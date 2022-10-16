@@ -1,4 +1,4 @@
-# FRONTEND-DEVELPMENT-UX-UI-WEB-DESIGNING-PORTFOLIO-LINKS-DONE-BY-ME
+# FRONTEND-WEB-DEVELPMENT-UX-UI-WEB-DESIGNING-PORTFOLIO-LINKS-DONE-BY-ME
 
 The weblinks of all projects are given below:
 
@@ -29,7 +29,7 @@ The weblinks of all projects are given below:
 • Acquired knowledge about corporate design thinking.
 
 
-# FRONTEND-DEVELPMENT-UX-UI-WEB-DESIGNING-PORTFOLIO-LINKS-DONE-BY-ME
+# FRONTEND-WEB-DEVELPMENT-UX-UI-WEB-DESIGNING-PORTFOLIO-LINKS-DONE-BY-ME
 
 1) https://unipupil.com/
 
